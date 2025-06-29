@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Cocktails from './components/Cocktails';
 import About from './components/About';
+import Menu from './components/Menu';
 //Gsap plugins are not registered by default, so we need to register them manually
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
@@ -15,6 +16,7 @@ const App = () => {
       <Hero/>
       <Cocktails/>
       <About/>
+      <Menu/>
     </main>
   )
 }
