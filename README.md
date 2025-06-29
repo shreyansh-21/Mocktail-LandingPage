@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8661e652-3c87-4939-9259-e0749237af4d/deploy-status)](https://app.netlify.com/projects/mocktail-oasis/deploys)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
