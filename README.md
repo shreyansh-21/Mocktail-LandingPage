@@ -1,13 +1,34 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8661e652-3c87-4939-9259-e0749237af4d/deploy-status)](https://app.netlify.com/projects/mocktail-oasis/deploys)
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Mocktail Oasis 🍹
 
-Currently, two official plugins are available:
+**Mocktail Oasis** is a modern, scroll-driven landing page for cocktails and mocktails, built with **React**, **Tailwind CSS**, **GSAP**, and **Vite**. This project was built to learn and experiment with **GSAP**’s powerful animation tools and advanced scroll-based effects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ⚡ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — Declarative component-based UI
+- **Tailwind CSS** — Utility-first responsive styling
+- **GSAP** — Advanced animations and scroll interactions
+- **Vite** — Fast build tool and development server
+
+---
+
+## ✨ Key Features
+
+- SplitText reveals for dynamic text animations
+- ScrollTrigger for scroll-driven timeline control
+- Parallax scrolling for immersive depth
+- Pinned sections for engaging scroll experiences
+- Scroll-synced video playback
+- Scroll-based image masking effects
+- Custom animated carousel
+- Seamless timeline animations across sections
+- Fully responsive, modern UI
+
+---
+
+## 📄 License
+
+This project is for learning purposes only.
