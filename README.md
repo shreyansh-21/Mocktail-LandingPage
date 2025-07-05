@@ -5,6 +5,13 @@
 **Mocktail Oasis** is a modern, scroll-driven landing page for cocktails and mocktails, built with **React**, **Tailwind CSS**, **GSAP**, and **Vite**. This project was built to learn and experiment with **GSAP**’s powerful animation tools and advanced scroll-based effects.
 
 ---
+## 📸 Mockup Preview
+
+Here’s a sneak peek at **Mocktail Oasis** in action — smooth scroll animations, lush parallax effects, and an elegant, modern layout:
+
+<p align="center">
+  <img src="public/mocktail-oasis-mockup.png" alt="Mocktail Oasis Landing Page Mockup" width="480" />
+</p>
 
 ## ⚡ Tech Stack
 
