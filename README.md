@@ -10,7 +10,7 @@
 Here’s a sneak peek at **Mocktail Oasis** in action — smooth scroll animations, lush parallax effects, and an elegant, modern layout:
 
 <p align="center">
-  <img src="public/mocktail-oasis-mockup.png" alt="Mocktail Oasis Landing Page Mockup" width="480" />
+  <img src="public/mocktail-oasis-mockup.png" alt="Mocktail Oasis Landing Page Mockup" />
 </p>
 
 ## ⚡ Tech Stack
